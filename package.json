@@ -1,0 +1,23 @@
+{
+  "name": "amazon-store",
+  "version": "1.0.0",
+  "description": "This is a command-line node app that uses mySQL to store and enter data in the form of an online retailer.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chevaneze/amazon-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chevaneze/amazon-store/issues"
+  },
+  "homepage": "https://github.com/chevaneze/amazon-store#readme"
+}

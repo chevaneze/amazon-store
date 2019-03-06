@@ -4,7 +4,7 @@ var connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "",
+    password: "Csspn223",
     database: "bamazon_DB"
 });
 
@@ -67,7 +67,9 @@ function shopOption() {
                                 console.log(chosenItemQuantity - answer.amount + " Left In Stock")
                             );
                         }); 
-
+                    }); 
+                }
+               
             // Running this application will first display all of the items available
             // for sale.Include the ids, names, and prices of products
             // for sale.

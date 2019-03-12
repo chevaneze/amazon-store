@@ -4,6 +4,7 @@
   "description": "This is a command-line node app that uses mySQL to store and enter data in the form of an online retailer.",
   "main": "bamazonCustomer.js",
   "dependencies": {
+    "console.table": "^0.10.0",
     "express": "^4.16.4",
     "inquirer": "^6.2.2",
     "mysql": "^2.16.0"
